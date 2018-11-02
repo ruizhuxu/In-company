@@ -42,14 +42,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1485675257">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/DayDayUpQ4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -64,7 +72,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="D:\Program Files\Git\bin\git.exe" />
+    <option name="PATH_TO_GIT" value="D:\Program Files (x86)\Git\bin\git.exe" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -101,10 +109,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="373" />
-    <option name="y" value="50" />
-    <option name="width" value="1322" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="372" />
+    <option name="y" value="49" />
+    <option name="width" value="1323" />
     <option name="height" value="963" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -152,8 +160,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="D:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -319,9 +327,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="373" y="50" width="1322" height="963" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24059561" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16123907" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -521,8 +529,8 @@
     <entry file="file://$PROJECT_DIR$/../Lemon/Course/Lesson2_20181031/Lesson2_Review.py" />
     <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/DayDayUpQ4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
