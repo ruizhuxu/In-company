@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3292394c-c70b-4e1e-8e9b-993a1f5b671d" name="Default" comment="  modify 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_Homework_20181102.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_Homework_20181102.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +47,18 @@
     <session id="-1485675257">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="19" />
+          <entry key="py" value="33" />
+          <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -62,42 +66,31 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="19" />
+          <entry key="Python" value="33" />
+          <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="279" />
+          <entry key="py" value="2318" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="279" />
+          <entry key="Python" value="2318" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson3_20181031/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="154">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/全局变量和局部变量.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <marker date="1541255894732" expanded="true" signature="185:282" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -152,26 +145,31 @@
         <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/lesson.py" />
         <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4.py" />
         <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson3_20181031/Lesson3_Homework_20181031.py" />
-        <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_Homework_20181102.py" />
         <option value="$PROJECT_DIR$/Python_北理1_Course/Class_demo/全局变量和局部变量.py" />
+        <option value="$PROJECT_DIR$/Python_北理1_Course/CurConvert.py" />
+        <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_Homework_20181102.py" />
+        <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_dictionary_20181102.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="928" />
-    <option name="y" value="15" />
-    <option name="width" value="1023" />
-    <option name="height" value="963" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1394" />
+    <option name="height" value="953" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
         <expanded-state>
           <State />
+          <State>
+            <id>Python</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Buildout</id>
+            <id>PyPep8NamingInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -193,13 +191,25 @@
             <path>
               <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
               <item name="MOOC" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_北理1_Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
+              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
+              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_Base" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson4_20181102" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
               <item name="MOOC" type="462c0819:PsiDirectoryNode" />
               <item name="Python_北理1_Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Class_demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,7 +230,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/Program Files (x86)/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -241,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.全局变量和局部变量">
+  <component name="RunManager" selected="Python.Lesson4_Homework_20181102">
     <configuration name="全局变量和局部变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,27 +265,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_北理1_Course/Class_demo/全局变量和局部变量.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CalBMIv1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MOOC" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Anita\PycharmProjects\MOOC\Python_北理1_Course\Class_demo\CalBMIv1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,25 +336,46 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lesson4_dictionary_20181102" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MOOC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_dictionary_20181102.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.CalBMIv1" />
       <item itemvalue="Python.CalBMIv2" />
       <item itemvalue="Python.DayDayUpQ4" />
       <item itemvalue="Python.Lesson4_Homework_20181102" />
       <item itemvalue="Python.全局变量和局部变量" />
+      <item itemvalue="Python.Lesson4_dictionary_20181102" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.全局变量和局部变量" />
         <item itemvalue="Python.Lesson4_Homework_20181102" />
+        <item itemvalue="Python.Lesson4_dictionary_20181102" />
+        <item itemvalue="Python.全局变量和局部变量" />
         <item itemvalue="Python.DayDayUpQ4" />
         <item itemvalue="Python.CalBMIv2" />
-        <item itemvalue="Python.CalBMIv1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\xuruizhu\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -403,19 +413,26 @@
       <option name="project" value="LOCAL" />
       <updated>1541174981414</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="  modify 2">
+      <created>1541256165475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541256165475</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="619" y="10" width="682" height="642" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3003096" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20608899" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992163" visible="true" weight="0.3627451" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992163" visible="true" weight="0.31623933" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,13 +476,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="  modify 2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CurConvert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_北理1_Course/TwoRoundDraw.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -533,27 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CalCircle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CrawUnivRankingB.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-350">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CrawUnivRankingA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -650,36 +639,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/全局变量和局部变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
+        <state relative-caret-position="129">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CurConvert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CrawUnivRankingA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="345" column="13" lean-forward="true" selection-start-line="345" selection-start-column="13" selection-end-line="345" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CrawUnivRankingB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/CalCircle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_dictionary_20181102.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson4_20181102/Lesson4_Homework_20181102.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson3_20181031/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="154">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/全局变量和局部变量.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <marker date="1541255894732" expanded="true" signature="185:282" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
