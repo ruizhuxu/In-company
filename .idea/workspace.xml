@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3292394c-c70b-4e1e-8e9b-993a1f5b671d" name="Default" comment="  modify 3456666">
-      <change afterPath="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_for_while_20181105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_for循环_20181105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_homework_20181105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/__init__.py" afterDir="false" />
+    <list default="true" id="3292394c-c70b-4e1e-8e9b-993a1f5b671d" name="Default" comment="  modify for while2">
+      <change afterPath="$PROJECT_DIR$/Python_北理1_Course/Class_demo/n的阶乘.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,19 +46,20 @@
     <session id="-1485675257">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="45" />
+          <entry key="py" value="46" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -70,31 +68,40 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="46" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4145" />
-          <entry key="txt" value="16" />
+          <entry key="py" value="4395" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="Python" value="4145" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="4395" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_homework_20181105.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="401">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/n的阶乘.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -159,12 +166,13 @@
         <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_for_while_20181105.py" />
         <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_for循环_20181105.py" />
         <option value="$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_homework_20181105.py" />
+        <option value="$PROJECT_DIR$/Python_北理1_Course/Class_demo/n的阶乘.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="943" />
-    <option name="y" value="22" />
+    <option name="x" value="942" />
+    <option name="y" value="21" />
     <option name="width" value="1056" />
     <option name="height" value="954" />
   </component>
@@ -194,28 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
-              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
-              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_Base" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -227,11 +213,33 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_北理1_Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MOOC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MOOC" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_北理1_Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Class_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="D:/Program Files (x86)/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -252,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Lesson5_homework_20181105">
+  <component name="RunManager" selected="Python.n的阶乘">
     <configuration name="444" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,27 +324,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SevenDigitsDrawV1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MOOC" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_北理1_Course/Class_demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_北理1_Course/Class_demo/SevenDigitsDrawV1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SevenDigitsDrawV2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MOOC" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,20 +345,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="n的阶乘" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MOOC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_北理1_Course/Class_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_北理1_Course/Class_demo/n的阶乘.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.SevenDigitsDrawV1" />
       <item itemvalue="Python.SevenDigitsDrawV2" />
       <item itemvalue="Python.Lesson5_homework_20181105" />
       <item itemvalue="Python.Lesson5_for_while_20181105" />
       <item itemvalue="Python.444" />
+      <item itemvalue="Python.n的阶乘" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.n的阶乘" />
         <item itemvalue="Python.Lesson5_homework_20181105" />
         <item itemvalue="Python.444" />
         <item itemvalue="Python.Lesson5_for_while_20181105" />
         <item itemvalue="Python.SevenDigitsDrawV2" />
-        <item itemvalue="Python.SevenDigitsDrawV1" />
       </list>
     </recent_temporary>
   </component>
@@ -456,18 +464,33 @@
       <option name="project" value="LOCAL" />
       <updated>1541420245090</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="  modify for while1">
+      <created>1541430189694</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1541430189694</updated>
+    </task>
+    <task id="LOCAL-00012" summary="  modify for while2">
+      <created>1541430641160</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1541430641160</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21233411" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21233411" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49726775" visible="true" weight="0.37777779" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49726775" visible="true" weight="0.37777779" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -509,7 +532,9 @@
     <MESSAGE value="first modify" />
     <MESSAGE value="  modify 2" />
     <MESSAGE value="  modify 345" />
-    <option name="LAST_COMMIT_MESSAGE" value="  modify 345" />
+    <MESSAGE value="  modify for while1" />
+    <MESSAGE value="  modify for while2" />
+    <option name="LAST_COMMIT_MESSAGE" value="  modify for while2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python_北理1_Course/TwoRoundDraw.py">
@@ -736,10 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
           <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <marker date="1541373224342" expanded="true" signature="215:216" ph="..." />
-            <marker date="1541373224342" expanded="true" signature="951:998" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,13 +771,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/444.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/444.py" />
     <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_for_while_20181105.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -768,9 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#200#218#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,8 +795,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lemon/Python_Base/Lesson5_20181105/Lesson5_homework_20181105.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="401">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_北理1_Course/Class_demo/n的阶乘.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
