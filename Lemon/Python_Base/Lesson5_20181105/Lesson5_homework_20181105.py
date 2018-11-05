@@ -23,3 +23,9 @@ for i in range(3):
         print("这个用户不可以加入球队")
 print("满足条件的总人数是{}人".format(count))
 
+# 2. 利用冒泡循环，完成a=[1,7,4,89,34,2]的冒泡排序。
+a=[1,7,4,89,34,2]
+s = 1
+for i in range(a):
+    if s > i:
+        s,i = i,s
